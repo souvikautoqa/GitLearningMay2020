@@ -4,6 +4,9 @@
     <test name="PetStoreAPITest">
         <classes>
             <class name="petstoretest.PetStoreTests"/>
+            <class name="petstoretest.PetStoreTests1"/>
+            <class name="petstoretest.PetStoreTests2"/>
+            <class name="petstoretest.PetStoreTests3"/>
         </classes>
     </test>
 </suite>
