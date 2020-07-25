@@ -7,6 +7,7 @@
             <class name="petstoretest.PetStoreTests1"/>
             <class name="petstoretest.PetStoreTests2"/>
             <class name="petstoretest.PetStoreTests3"/>
+ 	`   <class name="petstoretest.PetStoreTests4"/>
         </classes>
     </test>
 </suite>
